@@ -15,8 +15,8 @@ Blutoothハンズフリー通話などはヘッドレストのスピーカーか
 シェル背面のベルトホールを通して音声が聞こえる位置で、
 かつあまりベルトホールから目立たないように配慮しました。
 
-![jpeg](rear_view.jpeg)
-![jpeg](front_view.jpeg)
+<img src="rear_view.jpeg" width="60%">
+<img src="front_view.jpeg" width="60%">
 
 ## BOM
 
@@ -39,7 +39,7 @@ Blutoothハンズフリー通話などはヘッドレストのスピーカーか
 + スピーカーのケーブルは結束バンドでまとめ、シェルに固定します。スピーカーケーブルのコネクタは白いしワイヤーは赤緑と、そのままでは見た目が良くないので、テープなどで巻いて隠します。
 
 
-![jpeg](screenshot_1.png)
-![jpeg](screenshot_2.png)
-![jpeg](screenshot_3.png)
+<img src="screenshot_1.png" width="60%">
+<img src="screenshot_2.png" width="60%">
+<img src="screenshot_3.png" width="60%">
 
